@@ -11,6 +11,7 @@ Formado no curso Técnico de Desenvolvimento de Sistemas, pelo SENAI de Jandira,
 
 ![](https://img.shields.io/badge/‎-Java-F58219?logo=java&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat-square)
+![](https://img.shields.io/badge/-Dart-007DC0?logo=dart%2B%2B&style=flat-square)
 ![](https://img.shields.io/badge/‎-Python-4382B3?logo=python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-PHP-7377AD?logo=php&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat-square)
