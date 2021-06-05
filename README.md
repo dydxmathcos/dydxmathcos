@@ -3,7 +3,6 @@
 Formado no curso Técnico de Desenvolvimento de Sistemas, pelo SENAI de Jandira, e estudante de Bacharelado em Matemática Aplicada e Computacional, pelo Instituto de Matemática e Estatística da USP (IME-USP). Atualmente, atuo como desenvolvedor full stack, na Alphacode IT Solutions.
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/marcosfbc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marcosfbdcarvalho@gmail.com)
 
