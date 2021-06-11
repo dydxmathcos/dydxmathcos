@@ -17,6 +17,5 @@ Formado no curso Técnico de Desenvolvimento de Sistemas, pelo SENAI de Jandira,
 ![](https://img.shields.io/badge/‎-HTML-F16529?logo=html5&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcosfbc&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfbc&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
