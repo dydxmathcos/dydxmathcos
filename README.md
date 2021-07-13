@@ -1,6 +1,6 @@
 # Marcos Felipe
 
-Formado no curso Técnico de Desenvolvimento de Sistemas, pelo SENAI de Jandira, e estudante de Bacharelado em Matemática Aplicada e Computacional, pelo Instituto de Matemática e Estatística da USP (IME-USP). Atualmente, atuo como desenvolvedor full stack, na Alphacode IT Solutions.
+Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a full stack developer at Alphacode It Solutions.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
