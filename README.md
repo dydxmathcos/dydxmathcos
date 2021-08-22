@@ -8,6 +8,7 @@ Graduated in the Technical Course of Systems Development by SENAI of Jandira, an
 
 ##
 
+https://camo.githubusercontent.com/5c87202d5db6b315906684dd6ae53a66ed70c4ec2aae361d26907603afe7317a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d2d426f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465
 ![](https://img.shields.io/badge/‎-Java-F58219?logo=java&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-Python-4382B3?logo=python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-PHP-7377AD?logo=php&logoColor=white&style=flat-square)
