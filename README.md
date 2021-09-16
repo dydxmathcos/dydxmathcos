@@ -17,3 +17,8 @@ Graduated in the Technical Course of Systems Development by SENAI of Jandira, an
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcosfbc&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfbc&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline">
+  <img src="https://github-readme-stats.vercel.app/api/?username=marcosfbc&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfbc&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="500"> 
+</div>
