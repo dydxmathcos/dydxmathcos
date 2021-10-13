@@ -8,7 +8,7 @@ Graduated in the Technical Course of Systems Development by SENAI of Jandira, an
 
 ##
 
-![](https://img.shields.io/badge/‎-Java-F58219?logo=java&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-Python-4382B3?logo=python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-PHP-7377AD?logo=php&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/‎-JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat-square)
