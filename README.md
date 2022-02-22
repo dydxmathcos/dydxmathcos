@@ -1,6 +1,6 @@
 # Marcos Felipe
 
-Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a full stack developer at Alphacode IT Solutions.
+Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a back-end developer at Akire IT Consulting.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
