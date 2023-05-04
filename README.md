@@ -1,6 +1,6 @@
 # Marcos Felipe
 
-Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a full stack developer at Quantum Leap.
+Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a back-end developer at Data Opera.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
