@@ -4,7 +4,7 @@ Graduated in the Technical Course of Systems Development by SENAI of Jandira, an
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mathcosfelipe@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mfbdcarvalho@gmail.com)
 
 ##
 
