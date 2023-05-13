@@ -8,7 +8,7 @@ Graduated in the Technical Course of Systems Development by SENAI of Jandira, an
 
 ##
 
-![](https://img.shields.io/badge/%E2%80%8E-Nodejs-243?logo=nodejs&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/%E2%80%8E-Node-243?logo=nodejs&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/%E2%80%8E-Rust-000?logo=rust&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/%E2%80%8E-Swift-300?logo=swift&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/%E2%80%8E-TypeScript-133?logo=typescript&logoColor=white&style=flat-square)
