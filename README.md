@@ -3,7 +3,7 @@
 Graduated in the Technical Course of Systems Development by SENAI of Jandira, and student of Bachelor's Degree in Applied and Computational Mathematics from the Institute of Mathematics and Statistics of USP (IME-USP). Currently, I work as a back-end developer at Data Opera, and i'm also a back-end developer in a project called PubGame.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/marcosfbdcarvalho/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/mfbdcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mfbdcarvalho@gmail.com)
 
 ##
