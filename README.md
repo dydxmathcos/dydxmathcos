@@ -6,7 +6,7 @@ Graduated in the Technical Course of Systems Development, and student of Bachelo
 
 ![](https://img.shields.io/badge/%E2%80%8E-Spring-72B545?logo=spring&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/%E2%80%8E-Node.js-133?logo=node.js&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/%E2%80%8E-Kotlin-133?logo=kotlin&logoColor=purple&style=flat-square)
+![](https://img.shields.io/badge/%E2%80%8E-Kotlin-312?logo=kotlin&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/%E2%80%8E-Rust-000?logo=rust&logoColor=white&style=flat-square)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ma1rcos&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
